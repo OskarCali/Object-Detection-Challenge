@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_20200130_140342.jpg</filename>
+	<path>D:\OskarCali\Object Detection Challenge\images\IMG_20200130_140342.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1216</xmin>
+			<ymin>725</ymin>
+			<xmax>1721</xmax>
+			<ymax>3830</ymax>
+		</bndbox>
+	</object>
+</annotation>
