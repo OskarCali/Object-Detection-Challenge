@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20200130_140850-min.jpg</filename>
+	<path>D:\OskarCali\Object Detection Challenge\images\train\IMG_20200130_140850-min.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>1410</ymin>
+			<xmax>2579</xmax>
+			<ymax>3184</ymax>
+		</bndbox>
+	</object>
+</annotation>

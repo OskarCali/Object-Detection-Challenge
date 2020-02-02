@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>fork01-min.jpg</filename>
+	<path>D:\OskarCali\Object Detection Challenge\images\test\fork01-min.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>316</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>22</ymin>
+			<xmax>303</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

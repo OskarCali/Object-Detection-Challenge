@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cup01-min.jpg</filename>
+	<path>D:\OskarCali\Object Detection Challenge\images\train\cup01-min.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>215</width>
+		<height>234</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>48</ymin>
+			<xmax>195</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

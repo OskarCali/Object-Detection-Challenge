@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20200130_140402-min.jpg</filename>
+	<path>D:\OskarCali\Object Detection Challenge\images\train\IMG_20200130_140402-min.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1653</xmin>
+			<ymin>1027</ymin>
+			<xmax>2248</xmax>
+			<ymax>3558</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>692</xmin>
+			<ymin>727</ymin>
+			<xmax>1179</xmax>
+			<ymax>3849</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20200130_140512-min.jpg</filename>
+	<path>D:\OskarCali\Object Detection Challenge\images\train\IMG_20200130_140512-min.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rubik_cube</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>897</ymin>
+			<xmax>1405</xmax>
+			<ymax>2267</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2009</xmin>
+			<ymin>727</ymin>
+			<xmax>2775</xmax>
+			<ymax>3875</ymax>
+		</bndbox>
+	</object>
+</annotation>
