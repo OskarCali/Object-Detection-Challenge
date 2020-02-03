@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>rubik01.jpg</filename>
+	<path>D:\OskarCali\Object Detection Challenge\images\new\rubik01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rubik_cube</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>4</ymin>
+			<xmax>218</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

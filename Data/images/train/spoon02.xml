@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>spoon02.jpg</filename>
+	<path>D:\OskarCali\Object Detection Challenge\images\new\spoon02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>249</width>
+		<height>164</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>5</ymin>
+			<xmax>242</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

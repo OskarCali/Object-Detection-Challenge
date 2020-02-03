@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>glass05.jpg</filename>
+	<path>D:\OskarCali\Object Detection Challenge\images\new\glass05.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>217</width>
+		<height>232</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>17</ymin>
+			<xmax>189</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>
