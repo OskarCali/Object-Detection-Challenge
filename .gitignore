@@ -1,0 +1,8 @@
+## Ignore Jupyter Notebook checkpoins and
+## files of Classify Bot.
+
+# Checkpoins ipynb
+.ipynb_checkpoints/
+
+# Files and folders of the process for Classify Bot
+test/
